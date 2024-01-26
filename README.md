@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm currently studying Computer Science in Universidad Austral de Chile.
+- I'm learning about Software Engineering and Machine Learning.
+- I'm lookig for a practice work where I can learn new skills and improve myself.
 <!--
 **JJhano/JJhano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
