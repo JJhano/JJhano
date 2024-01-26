@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-- I'm currently studying Computer Science in Universidad Austral de Chile.
+Hi I'm Alejandro and currently studying Computer Science in Universidad Austral de Chile. I've finished my forth year of the career.
 - I'm learning about Software Engineering and Machine Learning.
 - I'm lookig for a practice work where I can learn new skills and improve myself.
 <!--
